@@ -7,13 +7,11 @@ __UIControls used while creating this application are:__
 * UITextField
 * UITableView
 
- 
  __Welcome Page__
  <img width="184" alt="Image1" src="https://user-images.githubusercontent.com/75938203/126906008-91b3f78c-808e-4909-bb9a-1a33912ecf59.png">
 
  __Enter City__
  <img width="185" alt="Image2" src="https://user-images.githubusercontent.com/75938203/126906010-2303f5b7-8b2d-4dfa-ad37-8f1e4bcb67ee.png">
-
  
 __Weather data for that particular city__
 <img width="182" alt="Image3" src="https://user-images.githubusercontent.com/75938203/126906012-6aba2b44-2cb2-46f8-b945-fee23a8d18ee.png">
